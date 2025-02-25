@@ -1,5 +1,6 @@
 # 💫 About Me:
-Rajiv Ghandhi Institute of Technology, Kottayam 
+__Hi! My name is Amal Krishna KP, and I'm an aspiring developer passionate about learning and building innovative solutions.__
+
 
 
 ## 🌐 Socials:
